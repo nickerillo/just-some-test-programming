@@ -1,2 +1,2 @@
-# just-some-test-programming
-First stuff i was trying
+# learning-programming
+trying things
